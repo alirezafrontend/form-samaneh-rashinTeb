@@ -1,4 +1,4 @@
-# Form Samaneh RashinTeb Project
+# Form Samaneh RashinTeb test
 
 A web application built with **React**, **TypeScript**, and **Bootstrap** for managing forms and displaying data in tables. This project allows users to submit data through forms and view it in a structured, responsive table layout.
 
